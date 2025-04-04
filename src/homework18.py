@@ -8,8 +8,8 @@
 final_mse=33.019718170166016
 
 # %%
-class1_prob=0.31333333333333335
-class2_prob=0.35333333333333333
+class1_prob=0.5953
+class2_prob=0.4047
 
 # %%
 accuracy=0.9800
