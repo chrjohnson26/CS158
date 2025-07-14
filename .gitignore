@@ -1,1 +1,4 @@
 /.ipynb_checkpoints/
+
+# No need for any .DS_Store files...
+**/.DS_Store
